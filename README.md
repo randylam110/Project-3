@@ -4,7 +4,6 @@
 * Arnold Schultz
 * Bryan Groves
 * Randy Lam
-* Rafael Lewis
 
 
 # Overview:
